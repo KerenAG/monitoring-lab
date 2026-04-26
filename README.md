@@ -17,8 +17,8 @@ El objetivo principal es comprender el flujo de monitoreo moderno: desde la reco
 
 ### 1. Clonar el repositorio
 
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/KerenAG/monitoring-lab
+cd monitoring-lab
 
 
 ### 2. Levantar los servicios
